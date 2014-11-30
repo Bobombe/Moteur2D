@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
-	<ActiveTarget name="Debug" />
-	<File name="..\_Librairies\Moteur2D\fixedsprite.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<ActiveTarget name="Release" />
+	<File name="..\_Librairies\Moteur2D\moteur2d.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1177" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\_Librairies\Moteur2D\ketboardlistener.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="213" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\_Librairies\Moteur2D\mouselistener.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="158" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\_Librairies\Moteur2D\view.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="682" topLine="0" />
+			<Cursor1 position="4546" topLine="24" />
 		</Cursor>
 	</File>
 	<File name="..\_Librairies\Moteur2D\view.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -26,57 +11,14 @@
 			<Cursor1 position="960" topLine="6" />
 		</Cursor>
 	</File>
-	<File name="..\_Librairies\Moteur2D\gravity.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\_Librairies\Moteur2D\monde.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1134" topLine="18" />
+			<Cursor1 position="406" topLine="6" />
 		</Cursor>
 	</File>
-	<File name="..\_Librairies\Moteur2D\gravity.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="MainDev.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="3527" topLine="109" />
-		</Cursor>
-	</File>
-	<File name="..\_Librairies\Moteur2D\moteur2d.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2610" topLine="80" />
-		</Cursor>
-	</File>
-	<File name="MainDev.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="463" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\_Librairies\Moteur2D\animatedsprite.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="4694" topLine="100" />
-		</Cursor>
-		<Folding>
-			<Collapse line="119" />
-		</Folding>
-	</File>
-	<File name="..\_Librairies\Moteur2D\animatedsprite.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1095" topLine="8" />
-		</Cursor>
-	</File>
-	<File name="classtest.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="350" topLine="62" />
-		</Cursor>
-	</File>
-	<File name="classtest.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="154" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\_Librairies\Moteur2D\moteur2d.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="4546" topLine="24" />
-		</Cursor>
-	</File>
-	<File name="..\_Librairies\Moteur2D\monde.h" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="547" topLine="7" />
+			<Cursor1 position="398" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="..\_Librairies\Moteur2D\concretebackground.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -84,9 +26,19 @@
 			<Cursor1 position="119" topLine="3" />
 		</Cursor>
 	</File>
+	<File name="classtest.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1838" topLine="76" />
+		</Cursor>
+	</File>
 	<File name="..\_Librairies\Moteur2D\mouselistener.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="165" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="classtest.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="154" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="..\_Librairies\Moteur2D\eventmanager.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -104,14 +56,62 @@
 			<Cursor1 position="167" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="..\_Librairies\Moteur2D\monde.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\_Librairies\Moteur2D\monde.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1435" topLine="34" />
+			<Cursor1 position="972" topLine="46" />
 		</Cursor>
 	</File>
-	<File name="..\_Librairies\Moteur2D\fixedsprite.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\_Librairies\Moteur2D\fixedsprite.cpp" open="1" top="1" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1854" topLine="48" />
+			<Cursor1 position="2128" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="..\_Librairies\Moteur2D\fixedsprite.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="477" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="..\_Librairies\Moteur2D\ketboardlistener.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="213" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\_Librairies\Moteur2D\mouselistener.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="158" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\_Librairies\Moteur2D\view.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="682" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\_Librairies\Moteur2D\animatedsprite.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4694" topLine="100" />
+		</Cursor>
+		<Folding>
+			<Collapse line="119" />
+		</Folding>
+	</File>
+	<File name="..\_Librairies\Moteur2D\gravity.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1134" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="..\_Librairies\Moteur2D\gravity.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3527" topLine="109" />
+		</Cursor>
+	</File>
+	<File name="..\_Librairies\Moteur2D\moteur2d.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8257" topLine="320" />
+		</Cursor>
+	</File>
+	<File name="..\_Librairies\Moteur2D\animatedsprite.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1095" topLine="8" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>

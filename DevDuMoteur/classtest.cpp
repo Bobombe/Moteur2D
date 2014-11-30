@@ -90,6 +90,21 @@ void ClassTest::keyPressed(sf::Keyboard::Key k)
     {
         m_vit+= sf::Vector2f(250, 0);
     }
+    if(k==sf::Keyboard::I)
+    {
+        std::cout << "I" << std::endl;
+        m_monde->load("ressources\\MondeBig");
+    }
+    if(k==sf::Keyboard::O)
+    {
+        std::cout << "O" << std::endl;
+        m_monde->wait();
+    }
+    if(k==sf::Keyboard::P)
+    {
+        std::cout << "P" << std::endl;
+        m_monde->set();
+    }
 }
 
 void ClassTest::keyReleased(sf::Keyboard::Key k)

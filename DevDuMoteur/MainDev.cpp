@@ -17,9 +17,9 @@ int main()
     moteur->init(1024, 768);
 
     Monde m("ressources\\Monde1");
-    Monde m2;//"ressources\\Monde2");
+    m.waitAndSet();
+    Monde m2;//("ressources\\Monde2");
     //moteur->addWorld(&m);
-    m.set();
 
 
     ClassTest ct(&m2);

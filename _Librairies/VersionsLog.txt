@@ -1,0 +1,3 @@
+v0.1.0 : Basée sur la suppression des "shape" et ajout d'un gestionnaire de collision divisant le mon de en plusieurs carés.
+
+v0.0.1 : Première version de développement
