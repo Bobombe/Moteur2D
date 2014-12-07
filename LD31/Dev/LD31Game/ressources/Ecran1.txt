@@ -1,0 +1,10 @@
+#tailleX tailleY
+2000 2000
+#Obstacles (color = de 1 a 6, R, V, B, J, C, M) :
+#color tX tY posX posY
+1 240 1750
+2 70 1940
+2 80 1940
+2 90 1940
+2 100 1940
+3 110 1900
