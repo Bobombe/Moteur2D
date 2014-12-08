@@ -144,7 +144,7 @@ void Personnage::keyPressed(sf::Keyboard::Key k)
 
         if (m_flamme>0)
         {
-            changeTorche(m_flamme);
+            changeTorche(m_flamme, true);
             m_couleurTorche = m_flamme;
         }
     }
@@ -237,11 +237,11 @@ void Personnage::checkCollision(float seconds, sf::Vector2f oldPos)
     //
 }
 
-void Personnage::changeTorche(int couleur)
+void Personnage::changeTorche(int couleur, bool keep)
 {
     if (couleur == 1)
     {
-        if (m_torche == TorcheRouge)
+        if (m_torche == TorcheRouge && !keep)
         {
             m_torche = Etteinte;
         }
@@ -252,7 +252,7 @@ void Personnage::changeTorche(int couleur)
     }
     else if (couleur == 2)
     {
-        if (m_torche == TorcheVerte)
+        if (m_torche == TorcheVerte && !keep)
         {
             m_torche = Etteinte;
         }
@@ -263,7 +263,7 @@ void Personnage::changeTorche(int couleur)
     }
     else if (couleur == 3)
     {
-        if (m_torche == TorcheBleue)
+        if (m_torche == TorcheBleue && !keep)
         {
             m_torche = Etteinte;
         }

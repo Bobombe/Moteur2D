@@ -371,8 +371,8 @@ void Television::switchConnecteur(int idConnecteur)
         Connecteur &c = m_connecteurs.at(idConnecteur);
         if (c.m_allumee)
         {
-            c.etteindre();
-            m_score--;
+            //c.etteindre();
+            //m_score--;
         }
         else
         {

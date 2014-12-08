@@ -47,7 +47,7 @@ class Personnage : public KeyboardListener, public AnimatedSprite//, public Mous
             m_auSol = posY;
         }
 
-        void changeTorche(int couleur);
+        void changeTorche(int couleur, bool keep = false);
 
         int getTorche()
         {
