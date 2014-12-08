@@ -27,6 +27,14 @@ filename filename)
 (gimp-drawable-set-visible layer FALSE)
 (set! index (+ index 1))
 )
+
+(set! index 0)
+(while (< index num-layer)
+(gimp-drawable-set-visible (aref layers index)
+TRUE)
+(set! index (+ index 1))
+)
+
 )
 )
 
